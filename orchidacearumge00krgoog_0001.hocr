@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orchidacearumge00krgoog_0001.png"; bbox 0 0 3578 5517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 3578 1">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 3578 1">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 3578 1; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 3578 1; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 638 3572 3594">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 638 3572 3594">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 638 3572 3594; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 0 638 3572 3594; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 786 3983 2803 4548">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 786 3983 2803 4548">
+     <span class='ocr_line' id='line_1_3' title="bbox 884 3983 2708 4190; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 884 3983 1816 4190; x_wconf 73' lang='lat' dir='ltr'>Orchida</span> <span class='ocrx_word' id='word_1_4' title='bbox 1842 4053 2708 4190; x_wconf 65' lang='lat' dir='ltr'>aearum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 786 4289 2803 4548; baseline 0 -54"><span class='ocrx_word' id='word_1_5' title='bbox 786 4357 1585 4548; x_wconf 73' lang='lat' dir='ltr'>genem</span> <span class='ocrx_word' id='word_1_6' title='bbox 1677 4321 1900 4494; x_wconf 72' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_7' title='bbox 1959 4289 2803 4548; x_wconf 76' lang='lat' dir='ltr'><em>species</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 116 4941 3460 5128">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 116 4941 3460 5128">
+     <span class='ocr_line' id='line_1_5' title="bbox 116 4941 3460 5128; baseline 0 -26"><span class='ocrx_word' id='word_1_8' title='bbox 116 4941 951 5102; x_wconf 62' lang='lat' dir='ltr'>Friedrich</span> <span class='ocrx_word' id='word_1_9' title='bbox 1049 4941 1804 5102; x_wconf 65' lang='lat' dir='ltr'>wilhelm</span> <span class='ocrx_word' id='word_1_10' title='bbox 1915 4941 2592 5128; x_wconf 58' lang='lat' dir='ltr'>Ludwig)</span> <span class='ocrx_word' id='word_1_11' title='bbox 2703 4941 3460 5102; x_wconf 62' lang='grc' dir='ltr'>ΚΓΞΠΖΙῙΠ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 5515 3578 5517">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 5515 3578 5517">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 5515 3578 5517; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 5515 3578 5517; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
